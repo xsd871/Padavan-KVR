@@ -1,11 +1,11 @@
 /* K2P */
 
-#define BOARD_PID		"K2P"
-#define BOARD_NAME		"K2P"
-#define BOARD_DESC		"PHICOMM K2P Wireless Router"
-#define BOARD_VENDOR_NAME	"PHICOMM"
-#define BOARD_VENDOR_URL	"http://www.phicomm.com/"
-#define BOARD_MODEL_URL		"http://www.phicomm.com/"
+#define BOARD_PID		"Padavan"
+#define BOARD_NAME		"Padavan"
+#define BOARD_DESC		"Padavan Wireless Router"
+#define BOARD_VENDOR_NAME	"Padavan"
+#define BOARD_VENDOR_URL	"https://bitbucket.org/padavan/rt-n56u/"
+#define BOARD_MODEL_URL		"https://bitbucket.org/padavan/rt-n56u/"
 #define BOARD_BOOT_TIME		30
 #define BOARD_FLASH_TIME	120
 #undef BOARD_GPIO_BTN_FN1
